@@ -41,16 +41,6 @@
          "correctAnswer":"Madrid"
       },
       {  
-         "question":"What are the school colors of the University of Texas at Austin?",
-         "answers":[  
-            "Black, Red",
-            "Blue, Orange",
-            "White, Burnt Orange",
-            "White, Old gold, Gold"
-         ],
-         "correctAnswer":"White, Burnt Orange"
-      },
-      {  
          "question":"What is 70 degrees Fahrenheit in Celsius?",
          "answers":[  
             "18.8889",
