@@ -1,0 +1,564 @@
+{  
+   "quiz":{  
+      "IQ":[  
+         {  
+            "question_id" : 1,
+		    "question": "Grand Central Terminal, Park Avenue, New York is the world's",
+		    "answers": [
+		      {"id": 1, "text": "largest railway station"},
+		      {"id": 2, "text": "highest railway station"},
+		      {"id": 3, "text": "longest railway station"},
+		      {"id": 4, "text": "None of the above"}
+		    ],
+		    "correctAnswer": "largest railway station"
+         },
+         {  
+            "question_id" : 2,
+		    "question": "Epsom (England) is the place associated with",
+		    "answers": [
+		      {"id": 1, "text": "Horse racing"},
+		      {"id": 2, "text": "Polo"},
+		      {"id": 3, "text": "Shooting"},
+		      {"id": 4, "text": "Snooker"}
+		    ],
+		    "correctAnswer": "Horse racing"
+         },
+         {  
+            "question_id" : 3,
+		    "question": "Country that was called as Land of Rising Sun ?",
+		    "answers": [
+		      {"id": 1, "text": "Russia"},
+		      {"id": 2, "text": "Japan"},
+		      {"id": 3, "text": "Korea"},
+		      {"id": 4, "text": "Holland"}
+		    ],
+		    "correctAnswer": "Japan"
+         },
+         {  
+            "question_id" : 4,
+		    "question": "Deficiency of Iron leads to ?",
+		    "answers": [
+		      {"id": 1, "text": "Rickets"},
+		      {"id": 2, "text": "Malaria"},
+		      {"id": 3, "text": "Dental Cavity"},
+		      {"id": 4, "text": "Anaemia"}
+		    ],
+		    "correctAnswer": "Anaemia"
+         },
+         {  
+            "question_id" : 5,
+		    "question": "'One People, One State, One leader' was the policy of ?",
+		    "answers": [
+		      {"id": 1, "text": "Stalin"},
+		      {"id": 2, "text": "Hitler"},
+		      {"id": 3, "text": "Lenin"},
+		      {"id": 4, "text": "Mussolin"}
+		    ],
+		    "correctAnswer": "Hitler"
+         },
+         {  
+            "question_id" : 6,
+		    "question": "Headquarters of UNO are situated at",
+		    "answers": [
+		      {"id": 1, "text": "New York, USA"},
+		      {"id": 2, "text": "Hague (Netherlands)"},
+		      {"id": 3, "text": "Geneva"},
+		      {"id": 4, "text": "Paris"}
+		    ],
+		    "correctAnswer": "New York, USA"
+         },
+         {  
+            "question_id" : 7,
+		    "question": "The value of Gold is determined in",
+		    "answers": [
+		      {"id": 1, "text": "Rome"},
+		      {"id": 2, "text": "Washington"},
+		      {"id": 3, "text": "Teheran"},
+		      {"id": 4, "text": "London"}
+		    ],
+		    "correctAnswer": "London"
+         },
+         {  
+            "question_id" : 8,
+		    "question": "Fax machine was invented by ?",
+		    "answers": [
+		      {"id": 1, "text": "Daimler"},
+		      {"id": 2, "text": "Dewar"},
+		      {"id": 3, "text": "Bain"},
+		      {"id": 4, "text": "None of these"}
+		    ],
+		    "correctAnswer": "Bain"
+         },
+         {  
+            "question_id" : 9,
+		    "question": "When is the World AIDS Day observed all over the world?",
+		    "answers": [
+		      {"id": 1, "text": "1st octomber"},
+		      {"id": 2, "text": "1st December"},
+		      {"id": 3, "text": "12th December"},
+		      {"id": 4, "text": "12th November"}
+		    ],
+		    "correctAnswer": "1st December"
+         },
+         {  
+            "question_id" : 10,
+		    "question": "When was the Air Mail service introduced?",
+		    "answers": [
+		      {"id": 1, "text": "1879"},
+		      {"id": 2, "text": "1907"},
+		      {"id": 3, "text": "1911"},
+		      {"id": 4, "text": "1935"}
+		    ],
+		    "correctAnswer": "1907"
+         }
+      ],
+      "Sports":[  
+         {  
+            "question_id" : 1,
+		    "question": "2010 Commonwealth Games held in ?",
+		    "answers": [
+		      {"id": 1, "text": "Canada"},
+		      {"id": 2, "text": "India"},
+		      {"id": 3, "text": "Britian"},
+		      {"id": 4, "text": "Malaysia"}
+		    ],
+		    "correctAnswer": "India"
+         },
+         {  
+            "question_id" : 2,
+		    "question": "The term“Googly” is associated with ?",
+		    "answers": [
+		      {"id": 1, "text": "Cricket"},
+		      {"id": 2, "text": "Football"},
+		      {"id": 3, "text": "Badminton"},
+		      {"id": 4, "text": "Hockey"}
+		    ],
+		    "correctAnswer": "Cricket"
+         },
+         {  
+            "question_id" : 3,
+		    "question": "In 1924 the first winter Olympics was held in ?",
+		    "answers": [
+		      {"id": 1, "text": "Italy"},
+		      {"id": 2, "text": "France"},
+		      {"id": 3, "text": "Austria"},
+		      {"id": 4, "text": "Canada"}
+		    ],
+		    "correctAnswer": "France"
+         },
+         {  
+            "question_id" : 4,
+		    "question": "The ASIAD is held every ?",
+		    "answers": [
+		      {"id": 1, "text": "3 years"},
+		      {"id": 2, "text": "4 years"},
+		      {"id": 3, "text": "5 years"},
+		      {"id": 4, "text": "6 years"}
+		    ],
+		    "correctAnswer": "4 years"
+         },
+         {  
+            "question_id" : 5,
+		    "question": "2010 World Cup football tournament was held in?",
+		    "answers": [
+		      {"id": 1, "text": "Austria"},
+		      {"id": 2, "text": "Germany"},
+		      {"id": 3, "text": "South Africa"},
+		      {"id": 4, "text": "Turin"}
+		    ],
+		    "correctAnswer": "South Africa"
+         },
+         {  
+            "question_id" : 6,
+		    "question": "The maximum number of Gold medals in Olympics 2008 was won by ?",
+		    "answers": [
+		      {"id": 1, "text": "China"},
+		      {"id": 2, "text": "France"},
+		      {"id": 3, "text": "U.S.A."},
+		      {"id": 4, "text": "S.Korea"}
+		    ],
+		    "correctAnswer": "U.S.A."
+         },
+         {  
+            "question_id" : 7,
+		    "question": "The head quarters of International Olympic Committee is at ?",
+		    "answers": [
+		      {"id": 1, "text": "Los Angles"},
+		      {"id": 2, "text": "New York"},
+		      {"id": 3, "text": "Moscow"},
+		      {"id": 4, "text": "Lausanne(Switzerland)"}
+		    ],
+		    "correctAnswer": "Lausanne(Switzerland)"
+         },
+         {  
+            "question_id" : 8,
+		    "question": "World’s most ancient game is ?",
+		    "answers": [
+		      {"id": 1, "text": "Boxing"},
+		      {"id": 2, "text": "Running"},
+		      {"id": 3, "text": "Wrestling"},
+		      {"id": 4, "text": "Swimming"}
+		    ],
+		    "correctAnswer": "Wrestling"
+         },
+         {  
+            "question_id" : 9,
+		    "question": "The game of hockey originated in ?",
+		    "answers": [
+		      {"id": 1, "text": "France"},
+		      {"id": 2, "text": "Canada"},
+		      {"id": 3, "text": "England"},
+		      {"id": 4, "text": "Germany"}
+		    ],
+		    "correctAnswer": "France"
+         },
+         {  
+            "question_id" : 10,
+		    "question": "Which country won the Cricket World Cup in 1999?",
+		    "answers": [
+		      {"id": 1, "text": "Australia"},
+		      {"id": 2, "text": "South Africa"},
+		      {"id": 3, "text": "Pakistan"},
+		      {"id": 4, "text": "England"}
+		    ],
+		    "correctAnswer": "Australia"
+         }
+      ],
+      "Science":[  
+         {  
+            "question_id" : 1,
+		    "question": "Entomology is the science that studies",
+		    "answers": [
+		      {"id": 1, "text": "Behavior of human beings"},
+		      {"id": 2, "text": "Insects"},
+		      {"id": 3, "text": "The origin and history of technical and scientific terms"},
+		      {"id": 4, "text": "The formation of rocks"}
+		    ],
+		    "correctAnswer": "Insects"
+         },
+         {  
+            "question_id" : 2,
+		    "question": "Fathometer is used to measure",
+		    "answers": [
+		      {"id": 1, "text": "Earthquakes"},
+		      {"id": 2, "text": "Rainfall"},
+		      {"id": 3, "text": "Ocean depth"},
+		      {"id": 4, "text": "Sound intensity"}
+		    ],
+		    "correctAnswer": "Ocean depth"
+         },
+         {  
+            "question_id" : 3,
+		    "question": "Eugenics is the study of",
+		    "answers": [
+		      {"id": 1, "text": "altering human beings by changing their genetic components"},
+		      {"id": 2, "text": "people of European origin"},
+		      {"id": 3, "text": "different races of mankind"},
+		      {"id": 4, "text": "genetic of plants"}
+		    ],
+		    "correctAnswer": "altering human beings by changing their genetic components"
+         },
+         {  
+            "question_id" : 4,
+		    "question": "The metal whose salts are sensitive to light is ?",
+		    "answers": [
+		      {"id": 1, "text": "Zinc"},
+		      {"id": 2, "text": "Silver"},
+		      {"id": 3, "text": "Copper"},
+		      {"id": 4, "text": "Aluminium"}
+		    ],
+		    "correctAnswer": "Silver"
+         },
+         {  
+            "question_id" : 5,
+		    "question": "Which soil is suitable for agriculture ?",
+		    "answers": [
+		      {"id": 1, "text": "Red soil"},
+		      {"id": 2, "text": "Sand"},
+		      {"id": 3, "text": "Black soil"},
+		      {"id": 4, "text": "Peaty soil"}
+		    ],
+		    "correctAnswer": "Peaty soil"
+         },
+         {  
+            "question_id" : 6,
+		    "question": "The chemical name of Chloroform is ?",
+		    "answers": [
+		      {"id": 1, "text": "Sulphuric acid"},
+		      {"id": 2, "text": "Sodium Chloride"},
+		      {"id": 3, "text": "Sodium Carbonate"},
+		      {"id": 4, "text": "Trichloromethane"}
+		    ],
+		    "correctAnswer": "Trichloromethane"
+         },
+         {  
+            "question_id" : 7,
+		    "question": "The chief ore of Aluminium is ?",
+		    "answers": [
+		      {"id": 1, "text": "Iron"},
+		      {"id": 2, "text": "Cryolite"},
+		      {"id": 3, "text": "Bauxite"},
+		      {"id": 4, "text": "Haematite"}
+		    ],
+		    "correctAnswer": "Bauxite"
+         },
+         {  
+            "question_id" : 8,
+		    "question": "Neutron was discovered by",
+		    "answers": [
+		      {"id": 1, "text": "Marie Curie"},
+		      {"id": 2, "text": "Mendeleef"},
+		      {"id": 3, "text": "Rutherford"},
+		      {"id": 4, "text": "Chadwick"}
+		    ],
+		    "correctAnswer": "Chadwick"
+         },
+         {  
+            "question_id" : 9,
+		    "question": "Who discovered oxygen?",
+		    "answers": [
+		      {"id": 1, "text": "Lavoisier"},
+		      {"id": 2, "text": "Joseph Priestley"},
+		      {"id": 3, "text": "Dalton"},
+		      {"id": 4, "text": "Swinton"}
+		    ],
+		    "correctAnswer": "Joseph Priestley"
+         },
+         {  
+            "question_id" : 10,
+		    "question": "The first manned satellite which U.S.S.R. has put into orbit was on",
+		    "answers": [
+		      {"id": 1, "text": "1961"},
+		      {"id": 2, "text": "1957"},
+		      {"id": 3, "text": "1972"},
+		      {"id": 4, "text": "1951"}
+		    ],
+		    "correctAnswer": "1961"
+         }
+      ],
+      "Programming":[  
+         {  
+            "question_id" : 1,
+		    "question": "The____condition allows a general predicate over the relations being joined.",
+		    "answers": [
+		      {"id": 1, "text": "On"},
+		      {"id": 2, "text": "Using"},
+		      {"id": 3, "text": "Set"},
+		      {"id": 4, "text": "Where"}
+		    ],
+		    "correctAnswer": "On"
+         },
+         {  
+            "question_id" : 2,
+		    "question": "The function ____ obtains block of memory dynamically.",
+		    "answers": [
+		      {"id": 1, "text": "calloc"},
+		      {"id": 2, "text": "malloc"},
+		      {"id": 3, "text": "Both a & b"},
+		      {"id": 4, "text": "free"}
+		    ],
+		    "correctAnswer": "Both a & b"
+         },
+         {  
+            "question_id" : 3,
+		    "question": "The keyword ‘break’ cannot be simply used within:",
+		    "answers": [
+		      {"id": 1, "text": "do-while"},
+		      {"id": 2, "text": "if-else"},
+		      {"id": 3, "text": "for"},
+		      {"id": 4, "text": "while"}
+		    ],
+		    "correctAnswer": "if-else"
+         },
+         {  
+            "question_id" : 4,
+		    "question": "Which data type is most suitable for storing a number 65000 in a 32-bit system?",
+		    "answers": [
+		      {"id": 1, "text": "short"},
+		      {"id": 2, "text": "int"},
+		      {"id": 3, "text": "long"},
+		      {"id": 4, "text": "double"}
+		    ],
+		    "correctAnswer": "short"
+         },
+         {  
+            "question_id" : 5,
+		    "question": "What type of join is needed when you wish to include rows that do not have matching values?",
+		    "answers": [
+		      {"id": 1, "text": "Equi-join"},
+		      {"id": 2, "text": "Natural join"},
+		      {"id": 3, "text": "Outer join"},
+		      {"id": 4, "text": "All of the mentioned"}
+		    ],
+		    "correctAnswer": "Outer join"
+         },
+         {  
+            "question_id" : 6,
+		    "question": "The primary tool used in structured design is a:",
+		    "answers": [
+		      {"id": 1, "text": "module"},
+		      {"id": 2, "text": "structure chart"},
+		      {"id": 3, "text": "data-flow diagram"},
+		      {"id": 4, "text": "program flowchart"}
+		    ],
+		    "correctAnswer": "structure chart"
+         },
+         {  
+            "question_id" : 7,
+		    "question": "What steps are in Continuous Integration?",
+		    "answers": [
+		      {"id": 1, "text": "Compilation"},
+		      {"id": 2, "text": "Unit Tests"},
+		      {"id": 3, "text": "Code Quality Gates"},
+		      {"id": 4, "text": "All of these"}
+		    ],
+		    "correctAnswer": "All of these"
+         },
+         {  
+            "question_id" : 8,
+		    "question": "Create table employee (name varchar ,id integer) What type of statement is this ?",
+		    "answers": [
+		      {"id": 1, "text": "DML"},
+		      {"id": 2, "text": "DDL"},
+		      {"id": 3, "text": "View"},
+		      {"id": 4, "text": "Integrity constraint"}
+		    ],
+		    "correctAnswer": ""
+         },
+         {  
+            "question_id" : 9,
+		    "question": "Find what is the unit of measurement that is used to measure the size of a user story for an Agile project?",
+		    "answers": [
+		      {"id": 1, "text": "Function points"},
+		      {"id": 2, "text": "Story points"},
+		      {"id": 3, "text": "Work breakdown points"},
+		      {"id": 4, "text": "Velocity points"}
+		    ],
+		    "correctAnswer": "Story points"
+         },
+         {  
+            "question_id" : 10,
+		    "question": "Updates that violate __________ are disallowed.",
+		    "answers": [
+		      {"id": 1, "text": "Integrity constraints"},
+		      {"id": 2, "text": "Transaction control"},
+		      {"id": 3, "text": "Authorization"},
+		      {"id": 4, "text": "DDL constraints"}
+		    ],
+		    "correctAnswer": "Integrity constraints"
+         }
+      ],
+      "Literature":[  
+         {  
+            "question_id" : 1,
+		    "question": "Who was the author of the famous storybook 'Alice's Adventures in Wonderland'?",
+		    "answers": [
+		      {"id": 1, "text": "Rudyard Kipling"},
+		      {"id": 2, "text": "John Keats"},
+		      {"id": 3, "text": "Lewis Carroll"},
+		      {"id": 4, "text": "H G Wells"}
+		    ],
+		    "correctAnswer": "Lewis Carroll"
+         },
+         {  
+            "question_id" : 2,
+		    "question": "Who wrote the famous 1855 poem 'The Charge of the Light Brigade'?",
+		    "answers": [
+		      {"id": 1, "text": "Lord Alfred Tennyson"},
+		      {"id": 2, "text": "Christopher Marlowe"},
+		      {"id": 3, "text": "Johannes Gutenberg"},
+		      {"id": 4, "text": "René Descartes"}
+		    ],
+		    "correctAnswer": "Lord Alfred Tennyson"
+         },
+         {  
+            "question_id" : 3,
+		    "question": "Who wrote 'Where ignorance is bliss, it is folly to be wise'?",
+		    "answers": [
+		      {"id": 1, "text": "Browning"},
+		      {"id": 2, "text": "Marx"},
+		      {"id": 3, "text": "Shakespeare"},
+		      {"id": 4, "text": "Kipling"}
+		    ],
+		    "correctAnswer": "Shakespeare"
+         },
+         {  
+            "question_id" : 4,
+		    "question": "Name the book which opens with the line 'All children, except one grew up'?",
+		    "answers": [
+		      {"id": 1, "text": "The Railway Children"},
+		      {"id": 2, "text": "Winnie the Poo"},
+		      {"id": 3, "text": "Jungle book"},
+		      {"id": 4, "text": "Peter Pan"}
+		    ],
+		    "correctAnswer": "Peter Pan"
+         },
+         {  
+            "question_id" : 5,
+		    "question": "Which is the first Harry Potter book?",
+		    "answers": [
+		      {"id": 1, "text": "HP and the Goblet of Fire"},
+		      {"id": 2, "text": "HP and the Philosopher’s Stone"},
+		      {"id": 3, "text": "HP and the Chamber of Secrets"},
+		      {"id": 4, "text": "HP and the God of small Things"}
+		    ],
+		    "correctAnswer": "HP and the Philosopher’s Stone"
+         },
+         {  
+            "question_id" : 6,
+		    "question": "In which century were Geoffrey Chaucer's Canterbury Tales written?",
+		    "answers": [
+		      {"id": 1, "text": "13th – 14th"},
+		      {"id": 2, "text": "14th – 15th"},
+		      {"id": 3, "text": "15th - 16th"},
+		      {"id": 4, "text": "16th – 17th"}
+		    ],
+		    "correctAnswer": "13th – 14th"
+         },
+         {  
+            "question_id" : 7,
+		    "question": "What was the nationality of Robert Louis Stevenson, writer of 'Treasure Island'?",
+		    "answers": [
+		      {"id": 1, "text": "Scottish"},
+		      {"id": 2, "text": "Welsh"},
+		      {"id": 3, "text": "Irish"},
+		      {"id": 4, "text": "French"}
+		    ],
+		    "correctAnswer": "Scottish"
+         },
+         {  
+            "question_id" : 8,
+		    "question": "'Jane Eyre' was written by which Bronte sister?",
+		    "answers": [
+		      {"id": 1, "text": "Anne"},
+		      {"id": 2, "text": "Charlotte"},
+		      {"id": 3, "text": "Emily"},
+		      {"id": 4, "text": "None of the above"}
+		    ],
+		    "correctAnswer": "Charlotte"
+         },
+         {  
+            "question_id" : 9,
+		    "question": "What is the book 'Lord of the Flies' about?",
+		    "answers": [
+		      {"id": 1, "text": "A round trip around the USA"},
+		      {"id": 2, "text": "A swarm of killer flies"},
+		      {"id": 3, "text": "Schoolboys on the desert island"},
+		      {"id": 4, "text": "None of the above"}
+		    ],
+		    "correctAnswer": "Schoolboys on the desert island"
+         },
+         {  
+            "question_id" : 10,
+		    "question": "In the book ‘the Lord of the Rings ‘, who or what is Bilbo?",
+		    "answers": [
+		      {"id": 1, "text": "Dwarf"},
+		      {"id": 2, "text": "Wizard"},
+		      {"id": 3, "text": "Hobbit"},
+		      {"id": 4, "text": "Troll"}
+		    ],
+		    "correctAnswer": "Hobbit"
+         }
+      ]
+   }
+}
