@@ -25,7 +25,7 @@
         },
          {  
             "category" : "Literature",
-            "question_id" : 9,
+            "question_id" : 3,
 		    "question": "What is the book 'Lord of the Flies' about?",
 		    "answers": [
 		      "A round trip around the USA",
@@ -37,7 +37,7 @@
          },
          {  
             "category" : "Literature",
-            "question_id" : 10,
+            "question_id" : 4,
 		    "question": "In the book ‘the Lord of the Rings ‘, who or what is Bilbo?",
 		    "answers": [
 		      "Dwarf",
@@ -49,7 +49,7 @@
          },
          {  
             "category" : "Programming",
-            "question_id" : 4,
+            "question_id" : 5,
 		    "question": "Which data type is most suitable for storing a number 65000 in a 32-bit system?",
 		    "answers": [
 		      "short",
@@ -61,7 +61,7 @@
          },
         {  
          	"category" : "IQ",
-            "question_id" : 3,
+            "question_id" : 6,
 		    "question": "Country that was called as Land of Rising Sun ?",
 		    "answers": [
 		      "Russia",
@@ -73,7 +73,7 @@
         },
         {  
          	"category" : "IQ",
-            "question_id" : 4,
+            "question_id" : 7,
 		    "question": "Deficiency of Iron leads to ?",
 		    "answers": [
 		      "Rickets",
@@ -85,7 +85,7 @@
         },
         {  
          	"category" : "IQ",
-            "question_id" : 5,
+            "question_id" : 8,
 		    "question": "'One People, One State, One leader' was the policy of ?",
 		    "answers": [
 		      "Stalin",
@@ -97,7 +97,7 @@
         },
         {  
          	"category" : "IQ",
-            "question_id" : 10,
+            "question_id" : 9,
 		    "question": "When was the Air Mail service introduced?",
 		    "answers": [
 		      "1879",
@@ -110,7 +110,7 @@
          {  
          	
          	"category" : "Sports",
-            "question_id" : 1,
+            "question_id" : 10,
 		    "question": "2010 Commonwealth Games held in ?",
 		    "answers": [
 		      "Canada",
@@ -122,7 +122,7 @@
          },
          {  
          	"category" : "Sports",
-            "question_id" : 2,
+            "question_id" : 11,
 		    "question": "The term“Googly” is associated with ?",
 		    "answers": [
 		      "Cricket",
@@ -134,7 +134,7 @@
          },
          {  
             "category" : "Programming",
-            "question_id" : 6,
+            "question_id" : 12,
 		    "question": "The primary tool used in structured design is a:",
 		    "answers": [
 		      "module",
@@ -146,7 +146,7 @@
          },
          {  
             "category" : "Programming",
-            "question_id" : 7,
+            "question_id" : 13,
 		    "question": "What steps are in Continuous Integration?",
 		    "answers": [
 		      "Compilation",
@@ -158,7 +158,7 @@
          },
          {  
          	"category" : "Sports",
-            "question_id" : 3,
+            "question_id" : 14,
 		    "question": "In 1924 the first winter Olympics was held in ?",
 		    "answers": [
 		      "Italy",
@@ -170,7 +170,7 @@
          },
          {  
          	"category" : "Sports",
-            "question_id" : 4,
+            "question_id" : 15,
 		    "question": "The ASIAD is held every ?",
 		    "answers": [
 		      "3 years",
@@ -182,7 +182,7 @@
          },
          {  
          	"category" : "Sports",
-            "question_id" : 5,
+            "question_id" : 16,
 		    "question": "2010 World Cup football tournament was held in?",
 		    "answers": [
 		      "Austria",
@@ -194,7 +194,7 @@
          },
          {  
             "category" : "Science",
-            "question_id" : 8,
+            "question_id" : 17,
 		    "question": "Neutron was discovered by",
 		    "answers": [
 		      "Marie Curie",
@@ -206,7 +206,7 @@
          },
          {  
             "category" : "Science",
-            "question_id" : 9,
+            "question_id" : 18,
 		    "question": "Who discovered oxygen?",
 		    "answers": [
 		      "Lavoisier",
@@ -218,7 +218,7 @@
          },
          {  
          	"category" : "Sports",
-            "question_id" : 6,
+            "question_id" : 19,
 		    "question": "The maximum number of Gold medals in Olympics 2008 was won by ?",
 		    "answers": [
 		      "China",
@@ -230,7 +230,7 @@
          },
          {  
          	"category" : "Sports",
-            "question_id" : 7,
+            "question_id" : 20,
 		    "question": "The head quarters of International Olympic Committee is at ?",
 		    "answers": [
 		      "Los Angles",
@@ -242,7 +242,7 @@
          },
          {  
          	"category" : "Sports",
-            "question_id" : 8,
+            "question_id" : 21,
 		    "question": "World’s most ancient game is ?",
 		    "answers": [
 		      "Boxing",
@@ -254,7 +254,7 @@
          },
          {  
          	"category" : "Sports",
-            "question_id" : 9,
+            "question_id" : 22,
 		    "question": "The game of hockey originated in ?",
 		    "answers": [
 		      "France",
@@ -266,7 +266,7 @@
          },
          {  
          	"category" : "Sports",
-            "question_id" : 10,
+            "question_id" : 23,
 		    "question": "Which country won the Cricket World Cup in 1999?",
 		    "answers": [
 		      "Australia",
@@ -278,7 +278,7 @@
          },
          {  
             "category" : "Science",
-            "question_id" : 1,
+            "question_id" : 24,
 		    "question": "Entomology is the science that studies",
 		    "answers": [
 		      "Behavior of human beings",
@@ -290,7 +290,7 @@
          },
          {  
             "category" : "Science",
-            "question_id" : 2,
+            "question_id" : 25,
 		    "question": "Fathometer is used to measure",
 		    "answers": [
 		      "Earthquakes",
@@ -302,7 +302,7 @@
          },
          {  
             "category" : "Science",
-            "question_id" : 3,
+            "question_id" : 26,
 		    "question": "Eugenics is the study of",
 		    "answers": [
 		      "altering human beings by changing their genetic components",
@@ -314,7 +314,7 @@
          },
          {  
             "category" : "Science",
-            "question_id" : 4,
+            "question_id" : 27,
 		    "question": "The metal whose salts are sensitive to light is ?",
 		    "answers": [
 		      "Zinc",
@@ -326,7 +326,7 @@
          },
          {  
             "category" : "Science",
-            "question_id" : 5,
+            "question_id" : 28,
 		    "question": "Which soil is suitable for agriculture ?",
 		    "answers": [
 		      "Red soil",
@@ -338,7 +338,7 @@
          },
          {  
             "category" : "Science",
-            "question_id" : 6,
+            "question_id" : 29,
 		    "question": "The chemical name of Chloroform is ?",
 		    "answers": [
 		      "Sulphuric acid",
@@ -350,7 +350,7 @@
          },
          {  
             "category" : "Science",
-            "question_id" : 7,
+            "question_id" : 30,
 		    "question": "The chief ore of Aluminium is ?",
 		    "answers": [
 		      "Iron",
@@ -362,7 +362,7 @@
          },
          {  
             "category" : "Science",
-            "question_id" : 10,
+            "question_id" : 31,
 		    "question": "The first manned satellite which U.S.S.R. has put into orbit was on",
 		    "answers": [
 		      "1961",
@@ -374,7 +374,7 @@
          },
          {  
             "category" : "Programming",
-            "question_id" : 1,
+            "question_id" : 32,
 		    "question": "The____condition allows a general predicate over the relations being joined.",
 		    "answers": [
 		      "On",
@@ -386,7 +386,7 @@
          },
          {  
             "category" : "Programming",
-            "question_id" : 2,
+            "question_id" : 33,
 		    "question": "The function ____ obtains block of memory dynamically.",
 		    "answers": [
 		      "calloc",
@@ -398,7 +398,7 @@
          },
          {  
             "category" : "Programming",
-            "question_id" : 3,
+            "question_id" : 34,
 		    "question": "The keyword ‘break’ cannot be simply used within:",
 		    "answers": [
 		      "do-while",
@@ -410,7 +410,7 @@
          },
          {  
             "category" : "Literature",
-            "question_id" : 8,
+            "question_id" : 35,
 		    "question": "'Jane Eyre' was written by which Bronte sister?",
 		    "answers": [
 		      "Anne",
@@ -422,7 +422,7 @@
          },
          {  
             "category" : "Programming",
-            "question_id" : 5,
+            "question_id" : 36,
 		    "question": "What type of join is needed when you wish to include rows that do not have matching values?",
 		    "answers": [
 		      "Equi-join",
@@ -434,7 +434,7 @@
          },
          {  
             "category" : "Programming",
-            "question_id" : 8,
+            "question_id" : 37,
 		    "question": "Create table employee (name varchar ,id integer) What type of statement is this ?",
 		    "answers": [
 		      "DML",
@@ -446,7 +446,7 @@
          },
          {  
             "category" : "Programming",
-            "question_id" : 9,
+            "question_id" : 38,
 		    "question": "Find what is the unit of measurement that is used to measure the size of a user story for an Agile project?",
 		    "answers": [
 		      "Function points",
@@ -458,7 +458,7 @@
          },
          {  
             "category" : "Programming",
-            "question_id" : 10,
+            "question_id" : 39,
 		    "question": "Updates that violate __________ are disallowed.",
 		    "answers": [
 		      "Integrity constraints",
@@ -470,7 +470,7 @@
          },
          {  
             "category" : "Literature",
-            "question_id" : 1,
+            "question_id" : 40,
 		    "question": "Who was the author of the famous storybook 'Alice's Adventures in Wonderland'?",
 		    "answers": [
 		      "Rudyard Kipling",
@@ -482,7 +482,7 @@
          },
          {  
             "category" : "Literature",
-            "question_id" : 2,
+            "question_id" : 41,
 		    "question": "Who wrote the famous 1855 poem 'The Charge of the Light Brigade'?",
 		    "answers": [
 		      "Lord Alfred Tennyson",
@@ -494,7 +494,7 @@
          },
         {  
          	"category" : "IQ",
-            "question_id" : 6,
+            "question_id" : 42,
 		    "question": "Headquarters of UNO are situated at",
 		    "answers": [
 		      "New York, USA",
@@ -506,7 +506,7 @@
         },
         {  
          	"category" : "IQ",
-            "question_id" : 7,
+            "question_id" : 43,
 		    "question": "The value of Gold is determined in",
 		    "answers": [
 		      "Rome",
@@ -518,7 +518,7 @@
         },
          {  
             "category" : "Literature",
-            "question_id" : 3,
+            "question_id" : 44,
 		    "question": "Who wrote 'Where ignorance is bliss, it is folly to be wise'?",
 		    "answers": [
 		      "Browning",
@@ -530,7 +530,7 @@
          },
          {  
             "category" : "Literature",
-            "question_id" : 4,
+            "question_id" : 46,
 		    "question": "Name the book which opens with the line 'All children, except one grew up'?",
 		    "answers": [
 		      "The Railway Children",
@@ -542,7 +542,7 @@
          },
          {  
             "category" : "Literature",
-            "question_id" : 5,
+            "question_id" : 47,
 		    "question": "Which is the first Harry Potter book?",
 		    "answers": [
 		      "HP and the Goblet of Fire",
@@ -554,7 +554,7 @@
          },
         {  
          	"category" : "IQ",
-            "question_id" : 8,
+            "question_id" : 48,
 		    "question": "Fax machine was invented by ?",
 		    "answers": [
 		      "Daimler",
@@ -566,7 +566,7 @@
         },
         {  
          	"category" : "IQ",
-            "question_id" : 9,
+            "question_id" : 49,
 		    "question": "When is the World AIDS Day observed all over the world?",
 		    "answers": [
 		      "1st octomber",
@@ -578,7 +578,7 @@
         },
          {  
             "category" : "Literature",
-            "question_id" : 6,
+            "question_id" : 50,
 		    "question": "In which century were Geoffrey Chaucer's Canterbury Tales written?",
 		    "answers": [
 		      "13th – 14th",
@@ -590,7 +590,7 @@
          },
          {  
             "category" : "Literature",
-            "question_id" : 7,
+            "question_id" : 52,
 		    "question": "What was the nationality of Robert Louis Stevenson, writer of 'Treasure Island'?",
 		    "answers": [
 		      "Scottish",
